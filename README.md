@@ -6,8 +6,7 @@ Sou um profissional com quase uma década de experiência em tecnologia, atuando
 - 📍 Conhecimento em **AWS**, **Azure Devops**, **FinOps**, **GenAI** e **ReactJS**
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielsdlb&count_private=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=gabrielsdlb&layout=compact&theme=vision-friendly-dark&hide_border=false" height="150" alt="languages graph" />
-</div>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-l/>
 
 ###
 <div style="display: inline_block"><br>
