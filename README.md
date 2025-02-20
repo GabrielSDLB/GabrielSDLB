@@ -5,7 +5,8 @@ Sou um profissional com quase uma década de experiência em tecnologia, atuando
 - 💻 Atualmente trabalhando com **GoLang**, **Kotlin**, **Swift** e **Gestão de Times**
 - 📍 Conhecimento em **AWS**, **Azure Devops**, **FinOps**, **GenAI** e **ReactJS**
 <div align="center">
-  <img src="[![Mineiro GitHub](https://github-readme-stats.vercel.app/api?username=GabrielSDLB)](https://github.com/gabrielSDLB/github-readme-stats) />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielsdlb&count_private=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=gabrielsdlb&layout=compact&theme=vision-friendly-dark&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ###
