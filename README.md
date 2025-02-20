@@ -1,4 +1,4 @@
-## Oiii eu sou o Gabriel, mas pode me chamar mineiro 👋
+## Oiii eu sou o Gabriel, mas pode me chamar Mineiro 👋
 
 Sou um profissional com quase uma década de experiência em tecnologia, atuando como líder técnico e especialista em engenharia de software. Ao longo da minha trajetória, tenho liderado equipes e desenvolvido soluções robustas e escaláveis, conectando excelência técnica a resultados estratégicos.  🚀
 - 🙂 Pronomes: ele/dele
