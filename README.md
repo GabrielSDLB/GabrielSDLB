@@ -1,21 +1,29 @@
-# 💫 About Me:
-Especialista em Engenharia de Software | Líder Técnico em Soluções de Alta Performance | Apaixonado por Inovação e Impacto Social<br><br>Sou um profissional com quase uma década de experiência em tecnologia, atuando como líder técnico e especialista em engenharia de software. Ao longo da minha trajetória, tenho liderado equipes e desenvolvido soluções robustas e escaláveis, conectando excelência técnica a resultados estratégicos. <br><br>Minha experiência inclui contribuições em empresas como Orbia, Zamp, Consorciei e Bradesco, onde liderei iniciativas importantes, como a modernização de infraestrutura, desenvolvimento de microsserviços, integração de sistemas financeiros e criação de soluções digitais inovadoras. <br><br>Tenho domínio de um amplo conjunto de stacks e ferramentas, incluindo: <br>- Linguagens e Frameworks: Java, Kotlin, GoLang, Spring Boot, Angular, React, Flutter e Node.js. <br>- Cloud e DevOps: Azure, Google Cloud Platform (GCP), Kubernetes, AWS, Docker e Azure DevOps Services. <br>- Arquitetura e Soluções Distribuídas: Desenvolvimento de microsserviços, IoT e serviços cloud-native. <br><br>Sou apaixonado por inovação, qualidade e impacto social.
+## Oiii eu sou o Gabriel, mas pode me chamar mineiro 👋
 
+Sou um profissional com quase uma década de experiência em tecnologia, atuando como líder técnico e especialista em engenharia de software. Ao longo da minha trajetória, tenho liderado equipes e desenvolvido soluções robustas e escaláveis, conectando excelência técnica a resultados estratégicos.  🚀
+- 🙂 Pronomes: ele/dele
+- 💻 Atualmente trabalhando com **GoLang**, **Kotlin** e **Gestão de Times**
+- 📍 Conhecimento em **AWS**, **Azure Devops**, **FinOps**, **GenAI** e **ReactJS**
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=imagalhaess&count_private=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=imagalhaess&layout=compact&theme=vision-friendly-dark&hide_border=false" height="150" alt="languages graph" />
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tech-manager/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gabrieltech812@gmail.com) 
+###
+<div style="display: inline_block"><br>
+  <img align="center" alt="Isa-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="Isa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Isa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Isa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Isa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Isa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GabrielSDLB&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GabrielSDLB&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSDLB&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GabrielSDLB&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=GabrielSDLB&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
+  ##
+ 
+<div> 
+  <a href = "mailto:gabrieltech812@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/tech-manager/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
