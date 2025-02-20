@@ -5,8 +5,8 @@ Sou um profissional com quase uma década de experiência em tecnologia, atuando
 - 💻 Atualmente trabalhando com **GoLang**, **Kotlin** e **Gestão de Times**
 - 📍 Conhecimento em **AWS**, **Azure Devops**, **FinOps**, **GenAI** e **ReactJS**
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=imagalhaess&count_private=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=imagalhaess&layout=compact&theme=vision-friendly-dark&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielSDLB&count_private=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=GabrielSDLB&layout=compact&theme=vision-friendly-dark&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ###
